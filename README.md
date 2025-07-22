@@ -133,3 +133,12 @@ database.py # Configuración y conexión a SQLite
 6. Emails y otras tareas largas se procesan en segundo plano con RabbitMQ + Celery.
 
 ---
+
+## 👨‍💻 Author
+
+Developed with 💙 by [Andrés Orozco](https://github.com/AndresOrozcoDev)
+
+- 📬 [andresorozcodev@gmail.com](mailto:andresorozcodev@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andresorozcodev)
+
+---
